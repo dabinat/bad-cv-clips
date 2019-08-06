@@ -1,5 +1,5 @@
 # bad-cv-clips
-Ongoing project to identify bad clips in Common Voice dataset releases. PRs with new clip filenames are appreciated.
+Ongoing project to identify bad clips in Common Voice dataset releases. PRs with new clip filenames are welcomed.
 
 ## Useful scripts ##
 [transcript_check.py](https://github.com/dabinat/deepspeech-tools/blob/master/transcript_check.py) - Identify potentially bad clips from a CSV file
